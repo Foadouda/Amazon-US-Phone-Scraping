@@ -24,3 +24,9 @@ This project is focused on web scraping Amazon product data (mobile phone device
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/your-repository.git
+
+By placing the **"Updated Instructions for the Files"** section after the "How to Install and Run the Project" section, you give users a clear understanding of the purpose of each file in your repository.
+
+Once you’ve added this to your `README.md`, you can commit the changes and push them to GitHub.
+
+Let me know if you need more assistance!
