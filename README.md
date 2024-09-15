@@ -25,8 +25,8 @@ This project is focused on web scraping Amazon product data (mobile phone device
    ```bash
    git clone https://github.com/your-username/your-repository.git
 
-By placing the **"Updated Instructions for the Files"** section after the "How to Install and Run the Project" section, you give users a clear understanding of the purpose of each file in your repository.
-
-Once you’ve added this to your `README.md`, you can commit the changes and push them to GitHub.
-
-Let me know if you need more assistance!
+### Updated Instructions for the Files:
+- **Amazon Web Scraping project .ipynb**: This is your web scraping script.
+- **Amazon_cleaned_data.ipynb**: This is your data cleaning and preprocessing script.
+- **product_details.csv**: The raw scraped product data.
+- **cleaned_product_data.csv**: The cleaned data after preprocessing.
