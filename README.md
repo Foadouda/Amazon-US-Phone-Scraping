@@ -23,7 +23,7 @@ This project is focused on web scraping Amazon product data (mobile phone device
 ### How to Install and Run the Project:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Foadouda/Amazon-US-Phone-Scraping.git
 
 ### Updated Instructions for the Files:
 - **Amazon Web Scraping project .ipynb**: This is your web scraping script.
